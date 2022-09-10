@@ -1,2 +1,2 @@
 .venv
-lambda_deployment/trained_model
+lambda_deployment/trained_model/pytorch_model.bin
